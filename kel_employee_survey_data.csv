@@ -1,0 +1,101 @@
+Respondent_ID,Recognition_Satisfaction,Qualification_Influence,Experience_Influence,Motivation_Impact,Salary_Satisfaction,Supervisor_Feedback_Satisfaction,Monetary_Incentives_Satisfaction,Professional_Development,Performance_Appraisal_Satisfaction,Job_Security_Satisfaction,Coworker_Relationship_Satisfaction,Working_Conditions_Satisfaction,Colleague_Support_Satisfaction,Promotion_Opportunities,Decision_Making_Participation,Nature_Of_Work_Perception,Management_Employee_Relationship,Respondent_Experience_Years,Motivating_Incentives_Type,Training_Programs_Satisfaction
+R001,Satisfied,No influence,Moderate,Minor,Satisfied,Neutral,Satisfied,Excellent,Poor,Satisfied,Excellent,Neutral,Good,Sometimes,Poor,Good,Good,1-5 years,Both,Satisfied
+R002,Satisfied,No influence,Minor,Minor,Neutral,Satisfied,Satisfied,Excellent,Neutral,Satisfied,Good,Good,Good,Seldom,Good,Good,Excellent,1-5 years,Both,Satisfied
+R003,Satisfied,Moderate,Minor,Minor,Satisfied,Satisfied,Neutral,Good,Good,Satisfied,Good,Good,Poor,Seldom,Good,Good,Good,1-5 years,Both,Neutral
+R004,Satisfied,Moderate,Significant,Minor,Satisfied,Dissatisfied,Dissatisfied,Poor,Neutral,Neutral,Good,Neutral,Good,Often,Good,Poor,Good,5-10 years,Both,Satisfied
+R005,Dissatisfied,Minor,No impact,Moderate,Dissatisfied,Dissatisfied,Dissatisfied,Neutral,Very Poor,Satisfied,Neutral,Neutral,Good,Sometimes,Good,Poor,Good,5-10 years,Both,Dissatisfied
+R006,Satisfied,Minor,Minor,Minor,Neutral,Neutral,Neutral,Excellent,Poor,Neutral,Good,Good,Good,Never,Good,Poor,Neutral,5-10 years,Both,Satisfied
+R007,Satisfied,Minor,No impact,No influence,Neutral,Satisfied,Satisfied,Excellent,Excellent,Satisfied,Good,Neutral,Excellent,Seldom,Good,Good,Good,1-5 years,Financial incentives,Satisfied
+R008,Dissatisfied,Minor,No impact,Minor,Satisfied,Satisfied,Neutral,Good,Good,Dissatisfied,Good,Good,Excellent,Seldom,Good,Good,Very Poor,1-5 years,Factors that motivate,Dissatisfied
+R009,Satisfied,Significant,Minor,Minor,Satisfied,Extremely Satisfied,Very dissatisfied,Good,Good,Satisfied,Good,Good,Excellent,Seldom,Good,Good,Good,1-5 years,Financial incentives,Satisfied
+R010,Satisfied,Minor,Minor,Minor,Satisfied,Satisfied,Neutral,Good,Good,Neutral,Good,Good,Good,Seldom,Good,Poor,Neutral,More than 15 years,Both,Neutral
+R011,Satisfied,No influence,Minor,Minor,Dissatisfied,Extremely dissatisfied,Neutral,Very Poor,Neutral,Neutral,Good,Good,Good,Sometimes,Neutral,Good,Excellent,1-5 years,Both,Neutral
+R012,Very Satisfied,Minor,Minor,Moderate,Satisfied,Satisfied,Satisfied,Good,Excellent,Neutral,Good,Good,Good,Sometimes,Excellent,Poor,Excellent,1-5 years,Both,Satisfied
+R013,Neutral,Minor,Minor,Minor,Neutral,Satisfied,Satisfied,Neutral,Good,Satisfied,Good,Poor,Good,Seldom,Excellent,Good,Good,5-10 years,Factors that motivate,Satisfied
+R014,Satisfied,Minor,Minor,Minor,Satisfied,Satisfied,Satisfied,Neutral,Neutral,Extremely Satisfied,Good,Good,Poor,Seldom,Neutral,Poor,Neutral,1-5 years,Both,Satisfied
+R015,Satisfied,Minor,No impact,Moderate,Satisfied,Satisfied,Neutral,Excellent,Excellent,Satisfied,Good,Good,Good,Seldom,Good,Good,Good,1-5 years,Both,Dissatisfied
+R016,Very Satisfied,Significant,Significant,Minor,Neutral,Satisfied,Neutral,Neutral,Poor,Extremely dissatisfied,Neutral,Good,Excellent,Seldom,Poor,Excellent,Good,5-10 years,Both,Satisfied
+R017,Satisfied,Moderate,Minor,No influence,Satisfied,Satisfied,Dissatisfied,Neutral,Very Poor,Satisfied,Good,Good,Good,Seldom,Good,Excellent,Excellent,10-15 years,Factors that motivate,Satisfied
+R018,Satisfied,Minor,Significant,Minor,Dissatisfied,Satisfied,Very Satisfied,Good,Good,Extremely dissatisfied,Good,Good,Good,Always,Excellent,Good,Good,More than 15 years,Factors that motivate,Dissatisfied
+R019,Very Satisfied,Moderate,No impact,No influence,Satisfied,Satisfied,Neutral,Good,Excellent,Satisfied,Good,Good,Poor,Always,Good,Good,Good,1-5 years,Both,Satisfied
+R020,Dissatisfied,Significant,Minor,Moderate,Very dissatisfied,Neutral,Neutral,Good,Good,Satisfied,Good,Good,Excellent,Always,Excellent,Good,Good,5-10 years,Both,Satisfied
+R021,Neutral,Minor,Moderate,Minor,Neutral,Extremely dissatisfied,Satisfied,Good,Neutral,Neutral,Neutral,Good,Excellent,Sometimes,Neutral,Good,Excellent,1-5 years,Both,Satisfied
+R022,Dissatisfied,Minor,No impact,Minor,Very satisfied,Satisfied,Satisfied,Neutral,Neutral,Neutral,Good,Poor,Good,Often,Good,Neutral,Good,1-5 years,Both,Satisfied
+R023,Satisfied,Minor,Minor,Minor,Satisfied,Dissatisfied,Neutral,Good,Good,Satisfied,Good,Neutral,Excellent,Seldom,Neutral,Good,Good,1-5 years,Factors that motivate,Satisfied
+R024,Satisfied,Minor,Significant,Minor,Dissatisfied,Satisfied,Satisfied,Good,Neutral,Extremely Satisfied,Excellent,Neutral,Good,Seldom,Good,Good,Excellent,1-5 years,Both,Dissatisfied
+R025,Dissatisfied,Minor,Minor,Significant,Very satisfied,Satisfied,Neutral,Neutral,Excellent,Dissatisfied,Excellent,Good,Good,Seldom,Excellent,Good,Good,5-10 years,Both,Dissatisfied
+R026,Satisfied,Minor,Minor,Minor,Satisfied,Satisfied,Satisfied,Good,Neutral,Dissatisfied,Good,Good,Good,Seldom,Good,Neutral,Excellent,1-5 years,Factors that motivate,Satisfied
+R027,Neutral,Moderate,Minor,Minor,Satisfied,Satisfied,Satisfied,Very Poor,Good,Neutral,Excellent,Good,Good,Never,Poor,Good,Good,5-10 years,Both,Dissatisfied
+R028,Very Satisfied,Moderate,No impact,Significant,Very dissatisfied,Satisfied,Very dissatisfied,Good,Excellent,Neutral,Poor,Neutral,Excellent,Never,Good,Excellent,Good,1-5 years,Both,Dissatisfied
+R029,Satisfied,Minor,No impact,Minor,Satisfied,Dissatisfied,Satisfied,Good,Poor,Dissatisfied,Good,Neutral,Poor,Sometimes,Good,Good,Poor,5-10 years,Factors that motivate,Neutral
+R030,Very Satisfied,Minor,Minor,Significant,Dissatisfied,Satisfied,Satisfied,Neutral,Good,Neutral,Neutral,Good,Good,Often,Good,Excellent,Good,1-5 years,Financial incentives,Dissatisfied
+R031,Satisfied,No influence,Minor,No influence,Dissatisfied,Satisfied,Satisfied,Neutral,Neutral,Extremely Satisfied,Excellent,Good,Poor,Often,Good,Good,Neutral,1-5 years,Both,Satisfied
+R032,Satisfied,Minor,No impact,Minor,Satisfied,Satisfied,Dissatisfied,Good,Good,Satisfied,Good,Neutral,Poor,Never,Good,Good,Excellent,1-5 years,Both,Satisfied
+R033,Very Satisfied,Minor,No impact,Minor,Satisfied,Satisfied,Dissatisfied,Very Poor,Good,Satisfied,Excellent,Neutral,Poor,Seldom,Excellent,Good,Poor,1-5 years,Both,Satisfied
+R034,Satisfied,Significant,Minor,Significant,Satisfied,Satisfied,Satisfied,Excellent,Good,Neutral,Excellent,Neutral,Good,Always,Neutral,Poor,Good,More than 15 years,Both,Satisfied
+R035,Satisfied,Minor,Minor,Minor,Very dissatisfied,Satisfied,Dissatisfied,Neutral,Neutral,Neutral,Good,Good,Excellent,Always,Excellent,Good,Good,10-15 years,Both,Satisfied
+R036,Satisfied,Moderate,Significant,Minor,Satisfied,Satisfied,Dissatisfied,Excellent,Excellent,Neutral,Neutral,Good,Good,Always,Good,Good,Good,1-5 years,Both,Satisfied
+R037,Neutral,No influence,No impact,Minor,Dissatisfied,Extremely Satisfied,Satisfied,Excellent,Neutral,Extremely Satisfied,Neutral,Excellent,Good,Sometimes,Good,Good,Good,5-10 years,Both,Satisfied
+R038,Dissatisfied,Minor,Minor,Minor,Neutral,Satisfied,Dissatisfied,Excellent,Excellent,Extremely dissatisfied,Excellent,Good,Good,Never,Good,Excellent,Good,1-5 years,Factors that motivate,Satisfied
+R039,Dissatisfied,Minor,No impact,Minor,Satisfied,Extremely Satisfied,Dissatisfied,Good,Good,Extremely Satisfied,Good,Good,Good,Seldom,Good,Good,Good,1-5 years,Both,Satisfied
+R040,Satisfied,Minor,Minor,Minor,Neutral,Satisfied,Satisfied,Excellent,Good,Neutral,Good,Good,Poor,Never,Neutral,Good,Good,1-5 years,Financial incentives,Satisfied
+R041,Satisfied,Minor,Minor,Minor,Satisfied,Extremely Satisfied,Neutral,Good,Good,Neutral,Excellent,Good,Good,Seldom,Neutral,Good,Excellent,5-10 years,Factors that motivate,Satisfied
+R042,Satisfied,Moderate,Significant,Minor,Satisfied,Satisfied,Satisfied,Good,Neutral,Dissatisfied,Excellent,Good,Poor,Sometimes,Good,Neutral,Good,1-5 years,Both,Satisfied
+R043,Satisfied,Minor,Minor,Minor,Satisfied,Satisfied,Neutral,Poor,Neutral,Neutral,Good,Excellent,Good,Seldom,Good,Good,Good,5-10 years,Factors that motivate,Dissatisfied
+R044,Neutral,Moderate,Minor,Minor,Satisfied,Satisfied,Very dissatisfied,Good,Good,Satisfied,Neutral,Poor,Good,Seldom,Good,Good,Poor,1-5 years,Both,Satisfied
+R045,Satisfied,Minor,Minor,Minor,Satisfied,Satisfied,Satisfied,Excellent,Good,Neutral,Neutral,Neutral,Poor,Always,Poor,Excellent,Good,5-10 years,Both,Satisfied
+R046,Dissatisfied,Minor,Minor,Moderate,Very satisfied,Dissatisfied,Satisfied,Good,Excellent,Neutral,Good,Neutral,Excellent,Never,Good,Neutral,Good,1-5 years,Both,Satisfied
+R047,Dissatisfied,Minor,Minor,Minor,Neutral,Neutral,Very Satisfied,Poor,Excellent,Satisfied,Good,Good,Good,Seldom,Neutral,Neutral,Excellent,1-5 years,Both,Dissatisfied
+R048,Very Satisfied,No influence,Significant,Minor,Satisfied,Satisfied,Dissatisfied,Neutral,Neutral,Extremely Satisfied,Good,Poor,Good,Seldom,Good,Good,Good,1-5 years,Both,Satisfied
+R049,Very Satisfied,Significant,Minor,Significant,Satisfied,Satisfied,Neutral,Excellent,Neutral,Dissatisfied,Good,Good,Good,Often,Good,Good,Poor,10-15 years,Both,Dissatisfied
+R050,Satisfied,Minor,No impact,Minor,Very dissatisfied,Satisfied,Very Satisfied,Poor,Good,Dissatisfied,Excellent,Good,Good,Seldom,Excellent,Good,Good,1-5 years,Both,Dissatisfied
+R051,Satisfied,No influence,Minor,Minor,Satisfied,Satisfied,Dissatisfied,Good,Neutral,Satisfied,Good,Poor,Excellent,Seldom,Poor,Neutral,Neutral,1-5 years,Factors that motivate,Satisfied
+R052,Neutral,No influence,No impact,Minor,Satisfied,Satisfied,Very Satisfied,Neutral,Neutral,Satisfied,Excellent,Good,Good,Seldom,Good,Good,Excellent,1-5 years,Both,Satisfied
+R053,Satisfied,Minor,Minor,No influence,Neutral,Satisfied,Dissatisfied,Excellent,Good,Satisfied,Neutral,Good,Excellent,Never,Excellent,Good,Neutral,More than 15 years,Financial incentives,Neutral
+R054,Satisfied,Moderate,Minor,Significant,Dissatisfied,Neutral,Satisfied,Good,Good,Neutral,Good,Good,Good,Sometimes,Good,Excellent,Good,More than 15 years,Both,Satisfied
+R055,Very Satisfied,Minor,No impact,No influence,Neutral,Neutral,Satisfied,Good,Neutral,Satisfied,Good,Good,Good,Sometimes,Good,Excellent,Excellent,1-5 years,Both,Neutral
+R056,Satisfied,No influence,No impact,Minor,Very dissatisfied,Satisfied,Dissatisfied,Good,Neutral,Extremely Satisfied,Good,Good,Good,Sometimes,Good,Good,Good,1-5 years,Both,Satisfied
+R057,Satisfied,Moderate,Minor,Moderate,Satisfied,Satisfied,Neutral,Good,Good,Dissatisfied,Excellent,Good,Good,Sometimes,Poor,Good,Neutral,10-15 years,Both,Satisfied
+R058,Satisfied,Minor,Minor,Minor,Very dissatisfied,Extremely dissatisfied,Dissatisfied,Good,Neutral,Extremely Satisfied,Good,Good,Good,Seldom,Good,Good,Very Poor,1-5 years,Financial incentives,Satisfied
+R059,Satisfied,No influence,No impact,Moderate,Neutral,Neutral,Satisfied,Good,Poor,Satisfied,Good,Good,Good,Seldom,Good,Excellent,Good,1-5 years,Factors that motivate,Neutral
+R060,Very Satisfied,Minor,Minor,Minor,Satisfied,Satisfied,Very dissatisfied,Good,Good,Extremely Satisfied,Neutral,Neutral,Good,Always,Good,Good,Good,1-5 years,Financial incentives,Satisfied
+R061,Very Satisfied,Minor,Minor,Minor,Neutral,Dissatisfied,Dissatisfied,Neutral,Excellent,Satisfied,Neutral,Good,Good,Seldom,Good,Excellent,Good,More than 15 years,Both,Satisfied
+R062,Dissatisfied,Moderate,No impact,Significant,Satisfied,Satisfied,Very dissatisfied,Neutral,Neutral,Extremely Satisfied,Excellent,Good,Good,Never,Good,Good,Excellent,1-5 years,Both,Dissatisfied
+R063,Very Satisfied,Minor,No impact,Minor,Satisfied,Satisfied,Satisfied,Poor,Good,Satisfied,Good,Good,Poor,Seldom,Good,Good,Good,1-5 years,Both,Satisfied
+R064,Satisfied,No influence,No impact,Minor,Dissatisfied,Neutral,Dissatisfied,Good,Good,Satisfied,Good,Good,Good,Sometimes,Neutral,Good,Good,1-5 years,Both,Dissatisfied
+R065,Satisfied,No influence,Minor,Moderate,Satisfied,Extremely Satisfied,Dissatisfied,Poor,Excellent,Satisfied,Good,Good,Good,Often,Neutral,Good,Good,1-5 years,Both,Satisfied
+R066,Satisfied,Minor,Minor,Minor,Dissatisfied,Satisfied,Satisfied,Good,Poor,Satisfied,Good,Good,Good,Seldom,Excellent,Good,Good,1-5 years,Both,Satisfied
+R067,Satisfied,Minor,Minor,Minor,Dissatisfied,Satisfied,Neutral,Neutral,Good,Satisfied,Good,Good,Excellent,Sometimes,Poor,Good,Good,1-5 years,Both,Satisfied
+R068,Very Satisfied,Minor,Moderate,Minor,Neutral,Satisfied,Very Satisfied,Good,Good,Satisfied,Good,Excellent,Good,Never,Good,Neutral,Excellent,5-10 years,Both,Satisfied
+R069,Satisfied,Minor,Minor,Minor,Neutral,Satisfied,Neutral,Neutral,Neutral,Extremely Satisfied,Good,Good,Good,Seldom,Good,Good,Good,10-15 years,Both,Dissatisfied
+R070,Satisfied,Minor,Minor,Minor,Dissatisfied,Satisfied,Neutral,Neutral,Good,Satisfied,Good,Poor,Good,Sometimes,Good,Good,Good,1-5 years,Financial incentives,Dissatisfied
+R071,Dissatisfied,Moderate,No impact,Minor,Satisfied,Satisfied,Satisfied,Neutral,Poor,Satisfied,Neutral,Good,Good,Sometimes,Good,Good,Good,10-15 years,Factors that motivate,Satisfied
+R072,Satisfied,Minor,Minor,Significant,Satisfied,Satisfied,Satisfied,Neutral,Good,Extremely Satisfied,Good,Good,Good,Sometimes,Neutral,Good,Neutral,1-5 years,Both,Satisfied
+R073,Satisfied,Minor,Minor,Minor,Dissatisfied,Extremely Satisfied,Dissatisfied,Good,Good,Satisfied,Good,Good,Excellent,Seldom,Good,Good,Poor,1-5 years,Both,Satisfied
+R074,Satisfied,No influence,No impact,No influence,Satisfied,Dissatisfied,Satisfied,Good,Neutral,Neutral,Good,Neutral,Good,Seldom,Neutral,Good,Good,1-5 years,Financial incentives,Satisfied
+R075,Satisfied,Moderate,Minor,Minor,Satisfied,Neutral,Dissatisfied,Good,Good,Dissatisfied,Good,Neutral,Poor,Seldom,Good,Good,Good,10-15 years,Both,Neutral
+R076,Dissatisfied,Minor,Minor,Minor,Satisfied,Satisfied,Neutral,Neutral,Very Poor,Dissatisfied,Good,Good,Good,Seldom,Good,Neutral,Poor,1-5 years,Both,Satisfied
+R077,Dissatisfied,Moderate,Minor,Minor,Dissatisfied,Satisfied,Satisfied,Neutral,Neutral,Satisfied,Good,Good,Good,Seldom,Good,Good,Neutral,1-5 years,Both,Satisfied
+R078,Satisfied,Minor,Minor,Moderate,Very satisfied,Extremely Satisfied,Neutral,Poor,Very Poor,Neutral,Good,Good,Good,Sometimes,Poor,Good,Good,1-5 years,Both,Neutral
+R079,Satisfied,Moderate,No impact,Minor,Satisfied,Satisfied,Dissatisfied,Good,Excellent,Extremely dissatisfied,Good,Good,Poor,Always,Neutral,Good,Good,More than 15 years,Factors that motivate,Satisfied
+R080,Satisfied,Minor,No impact,Minor,Satisfied,Dissatisfied,Very Satisfied,Good,Excellent,Satisfied,Poor,Good,Excellent,Sometimes,Good,Good,Very Poor,5-10 years,Both,Satisfied
+R081,Satisfied,Significant,Significant,Minor,Neutral,Neutral,Dissatisfied,Good,Excellent,Extremely Satisfied,Good,Neutral,Good,Seldom,Good,Good,Neutral,1-5 years,Both,Satisfied
+R082,Satisfied,Significant,Minor,Minor,Satisfied,Extremely dissatisfied,Satisfied,Good,Good,Neutral,Good,Good,Good,Sometimes,Good,Excellent,Good,10-15 years,Both,Dissatisfied
+R083,Satisfied,Minor,No impact,Minor,Dissatisfied,Satisfied,Dissatisfied,Good,Good,Extremely Satisfied,Good,Good,Good,Often,Good,Excellent,Good,5-10 years,Both,Neutral
+R084,Satisfied,Moderate,No impact,Minor,Satisfied,Satisfied,Satisfied,Poor,Excellent,Neutral,Excellent,Good,Good,Never,Neutral,Good,Good,1-5 years,Financial incentives,Dissatisfied
+R085,Satisfied,Minor,Minor,No influence,Satisfied,Satisfied,Dissatisfied,Good,Poor,Satisfied,Good,Good,Excellent,Sometimes,Good,Neutral,Poor,1-5 years,Both,Satisfied
+R086,Satisfied,Minor,Minor,Moderate,Very dissatisfied,Satisfied,Satisfied,Good,Poor,Satisfied,Good,Good,Good,Always,Neutral,Neutral,Good,1-5 years,Factors that motivate,Satisfied
+R087,Dissatisfied,Moderate,Minor,Minor,Dissatisfied,Neutral,Very Satisfied,Neutral,Good,Satisfied,Good,Good,Good,Sometimes,Good,Good,Good,More than 15 years,Both,Satisfied
+R088,Very Satisfied,Minor,Minor,Minor,Dissatisfied,Satisfied,Satisfied,Excellent,Poor,Extremely Satisfied,Excellent,Good,Good,Seldom,Good,Good,Good,1-5 years,Both,Dissatisfied
+R089,Satisfied,Minor,No impact,Minor,Dissatisfied,Neutral,Very Satisfied,Excellent,Good,Satisfied,Good,Poor,Good,Seldom,Good,Good,Neutral,1-5 years,Both,Satisfied
+R090,Dissatisfied,Moderate,No impact,Minor,Satisfied,Neutral,Dissatisfied,Very Poor,Poor,Dissatisfied,Excellent,Poor,Excellent,Always,Good,Neutral,Neutral,10-15 years,Both,Satisfied
+R091,Very Satisfied,Significant,No impact,Minor,Very dissatisfied,Satisfied,Satisfied,Neutral,Good,Satisfied,Good,Good,Good,Sometimes,Good,Good,Excellent,1-5 years,Financial incentives,Satisfied
+R092,Dissatisfied,Minor,Minor,Minor,Satisfied,Satisfied,Very dissatisfied,Good,Neutral,Neutral,Excellent,Neutral,Poor,Sometimes,Excellent,Poor,Good,1-5 years,Financial incentives,Neutral
+R093,Very Satisfied,No influence,Moderate,Minor,Satisfied,Neutral,Satisfied,Good,Good,Neutral,Good,Good,Poor,Seldom,Good,Good,Good,1-5 years,Both,Dissatisfied
+R094,Satisfied,Minor,Minor,Minor,Very satisfied,Satisfied,Satisfied,Good,Neutral,Extremely Satisfied,Good,Good,Excellent,Never,Good,Good,Good,1-5 years,Both,Dissatisfied
+R095,Neutral,Moderate,No impact,Minor,Dissatisfied,Satisfied,Satisfied,Good,Poor,Neutral,Excellent,Neutral,Good,Seldom,Neutral,Good,Good,10-15 years,Factors that motivate,Dissatisfied
+R096,Satisfied,Minor,Minor,Minor,Satisfied,Neutral,Satisfied,Good,Neutral,Neutral,Poor,Good,Excellent,Often,Good,Neutral,Good,10-15 years,Both,Dissatisfied
+R097,Satisfied,Minor,Minor,Moderate,Satisfied,Satisfied,Very dissatisfied,Excellent,Good,Satisfied,Good,Neutral,Good,Always,Good,Good,Excellent,1-5 years,Both,Satisfied
+R098,Satisfied,No influence,No impact,Minor,Dissatisfied,Extremely Satisfied,Satisfied,Good,Good,Satisfied,Poor,Good,Good,Seldom,Good,Good,Poor,1-5 years,Both,Satisfied
+R099,Neutral,No influence,Minor,Minor,Very satisfied,Satisfied,Very dissatisfied,Good,Good,Dissatisfied,Excellent,Good,Poor,Seldom,Good,Good,Very Poor,1-5 years,Both,Satisfied
+R100,Satisfied,Minor,No impact,Moderate,Satisfied,Neutral,Satisfied,Neutral,Neutral,Neutral,Good,Excellent,Excellent,Seldom,Excellent,Good,Good,10-15 years,Both,Neutral
